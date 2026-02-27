@@ -22,7 +22,15 @@
 
 ## 1. Introduction
 
-Istanbul Airport, inaugurated in **October 2018**, is one of the world's largest aviation hubs with a capacity exceeding **200 million passengers annually**. Its construction required extensive coastal modification along the Black Sea shoreline, including significant land reclamation from marine areas.
+<div align="center">
+  <img src="IstanbulImages/IstanbulAirportImage.jpg" width="860"/>
+  <br/>
+  <sub><b>Istanbul Airport (IATA: IST · ICAO: LTFM · Internal code: IGA) · Black Sea coast of West Istanbul, Turkey</b></sub>
+</div>
+
+<br/>
+
+Istanbul Airport **(IGA)**, inaugurated in **October 2018**, is one of the world's largest aviation hubs with a capacity exceeding **200 million passengers annually**. Its construction required extensive coastal modification along the Black Sea shoreline, including significant land reclamation from marine areas.
 
 > **Research question:** *How much land had to be gained from the sea to build Istanbul Airport compared to 2012?*
 
@@ -130,7 +138,7 @@ The analysis demonstrates the utility of remote sensing for monitoring large-sca
 
 ## 5. References
 
-- Istanbul Airport. *About Istanbul Airport*. https://www.istanbulairport.com/ (Accessed: January 2026).
+- Istanbul Airport (IGA). *Official Website*. https://www.istairport.com/en (Accessed: January 2026).
 - Wang, W., Liu, H., Li, Y., & Su, J. (2014). Development and management of land reclamation in China. *Ocean & Coastal Management*, 102, 415–425.
 - McFeeters, S. K. (1996). The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features. *International Journal of Remote Sensing*, 17(7), 1425–1432.
 - Temmerman, S., Belliard, J.-P., & Slootmaekers, B. (2025/2026). *Geographical Information Systems (2001WETGIS)*. University of Antwerp, Faculty of Science, Department of Biology.
