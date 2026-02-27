@@ -1,7 +1,7 @@
 # Istanbul Airport — Land Reclamation Analysis
+### with GOOGLE EARTH ENGINE (GEE)
 
 **University of Antwerp** · Geographical Information Systems (GIS) · Academic Year 2025/2026  
-**Student:** Mohammed Amin Borqal · `s0259707`  
 **Tool:** Google Earth Engine · [Open Script ↗](https://code.earthengine.google.com/e9c72566d45c96661dddc95ead646f67)
 
 ---
